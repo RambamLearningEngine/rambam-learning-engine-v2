@@ -1,27 +1,25 @@
 [
-  {
-    "sefer": "Madda",
-    "position": 1,
-    "name": "Yesodei HaTorah"
-  },
-  {
-    "sefer": "Madda",
-    "position": 2,
-    "name": "De'ot"
-  },
-  {
-    "sefer": "Madda",
-    "position": 3,
-    "name": "Talmud Torah"
-  },
-  {
-    "sefer": "Madda",
-    "position": 4,
-    "name": "Avodah Zarah"
-  },
-  {
-    "sefer": "Madda",
-    "position": 5,
-    "name": "Teshuvah"
-  }
+  {"sefer":"Madda","position":1,"name":"Yesodei HaTorah"},
+  {"sefer":"Madda","position":2,"name":"De'ot"},
+  {"sefer":"Madda","position":3,"name":"Talmud Torah"},
+  {"sefer":"Madda","position":4,"name":"Avodah Zarah"},
+  {"sefer":"Madda","position":5,"name":"Teshuvah"},
+
+  {"sefer":"Ahavah","position":1,"name":"Kri'at Shema"},
+  {"sefer":"Ahavah","position":2,"name":"Tefilah and Birkat Kohanim"},
+  {"sefer":"Ahavah","position":3,"name":"Tefillin, Mezuzah and Sefer Torah"},
+  {"sefer":"Ahavah","position":4,"name":"Tzitzit"},
+  {"sefer":"Ahavah","position":5,"name":"Berachot"},
+  {"sefer":"Ahavah","position":6,"name":"Milah"},
+
+  {"sefer":"Zmanim","position":1,"name":"Shabbat"},
+  {"sefer":"Zmanim","position":2,"name":"Eruvin"},
+  {"sefer":"Zmanim","position":3,"name":"Shevitat Asor"},
+  {"sefer":"Zmanim","position":4,"name":"Shevitat Yom Tov"},
+  {"sefer":"Zmanim","position":5,"name":"Chametz U'Matzah"},
+  {"sefer":"Zmanim","position":6,"name":"Shofar, Sukkah and Lulav"},
+  {"sefer":"Zmanim","position":7,"name":"Shekalim"},
+  {"sefer":"Zmanim","position":8,"name":"Kiddush HaChodesh"},
+  {"sefer":"Zmanim","position":9,"name":"Ta'aniyot"},
+  {"sefer":"Zmanim","position":10,"name":"Megillah and Chanukah"}
 ]
