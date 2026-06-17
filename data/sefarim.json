@@ -1,17 +1,14 @@
-[
-  {
-    "id": 1,
-    "name": "Madda",
-    "sectionCount": 5
-  },
-  {
-    "id": 2,
-    "name": "Ahavah",
-    "sectionCount": 6
-  },
-  {
-    "id": 3,
-    "name": "Zmanim",
-    "sectionCount": 10
-  }
-]
+  {"id":1,"name":"Madda","sectionCount":5},
+  {"id":2,"name":"Ahavah","sectionCount":6},
+  {"id":3,"name":"Zmanim","sectionCount":10},
+  {"id":4,"name":"Nashim","sectionCount":5},
+  {"id":5,"name":"Kedushah","sectionCount":3},
+  {"id":6,"name":"Haflaah","sectionCount":4},
+  {"id":7,"name":"Zeraim","sectionCount":7},
+  {"id":8,"name":"Avodah","sectionCount":9},
+  {"id":9,"name":"Korbanot","sectionCount":5},
+  {"id":10,"name":"Taharah","sectionCount":8},
+  {"id":11,"name":"Nezikin","sectionCount":6},
+  {"id":12,"name":"Kinyan","sectionCount":5},
+  {"id":13,"name":"Mishpatim","sectionCount":5},
+  {"id":14,"name":"Shoftim","sectionCount":5}
