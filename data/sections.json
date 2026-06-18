@@ -36,4 +36,23 @@
 {"sefer":"Haflaah","position":1,"name":"Shevuot"},
 {"sefer":"Haflaah","position":2,"name":"Nedarim"},
 {"sefer":"Haflaah","position":3,"name":"Nezirut"},
-{"sefer":"Haflaah","position":4,"name":"Arachin and Charamin"}
+{"sefer":"Haflaah","position":4,"name":"Arachin and Charamin"},
+  ,
+{"sefer":"Zeraim","position":1,"name":"Kilayim"},
+{"sefer":"Zeraim","position":2,"name":"Matanot Aniyim"},
+{"sefer":"Zeraim","position":3,"name":"Terumot"},
+{"sefer":"Zeraim","position":4,"name":"Ma'aser"},
+{"sefer":"Zeraim","position":5,"name":"Ma'aser Sheni and Neta Revai"},
+{"sefer":"Zeraim","position":6,"name":"Bikkurim"},
+{"sefer":"Zeraim","position":7,"name":"Shemittah and Yovel"},
+
+{"sefer":"Avodah","position":1,"name":"Beit HaBechirah"},
+{"sefer":"Avodah","position":2,"name":"Klei HaMikdash"},
+{"sefer":"Avodah","position":3,"name":"Bi'at HaMikdash"},
+{"sefer":"Avodah","position":4,"name":"Issurei Mizbeach"},
+{"sefer":"Avodah","position":5,"name":"Ma'aseh HaKorbanot"},
+{"sefer":"Avodah","position":6,"name":"Temidin U'Musafin"},
+{"sefer":"Avodah","position":7,"name":"Pesulei HaMukdashin"},
+{"sefer":"Avodah","position":8,"name":"Avodat Yom HaKippurim"},
+{"sefer":"Avodah","position":9,"name":"Me'ilah"}
+]
