@@ -22,4 +22,18 @@
   {"sefer":"Zmanim","position":8,"name":"Kiddush HaChodesh"},
   {"sefer":"Zmanim","position":9,"name":"Ta'aniyot"},
   {"sefer":"Zmanim","position":10,"name":"Megillah and Chanukah"}
-]
+,
+{"sefer":"Nashim","position":1,"name":"Ishut"},
+{"sefer":"Nashim","position":2,"name":"Gerushin"},
+{"sefer":"Nashim","position":3,"name":"Yibbum and Chalitzah"},
+{"sefer":"Nashim","position":4,"name":"Na'arah Betulah"},
+{"sefer":"Nashim","position":5,"name":"Sotah"},
+
+{"sefer":"Kedushah","position":1,"name":"Issurei Bi'ah"},
+{"sefer":"Kedushah","position":2,"name":"Ma'achalot Assurot"},
+{"sefer":"Kedushah","position":3,"name":"Shechitah"},
+
+{"sefer":"Haflaah","position":1,"name":"Shevuot"},
+{"sefer":"Haflaah","position":2,"name":"Nedarim"},
+{"sefer":"Haflaah","position":3,"name":"Nezirut"},
+{"sefer":"Haflaah","position":4,"name":"Arachin and Charamin"}
