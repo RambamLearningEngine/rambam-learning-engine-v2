@@ -54,5 +54,42 @@
 {"sefer":"Avodah","position":6,"name":"Temidin U'Musafin"},
 {"sefer":"Avodah","position":7,"name":"Pesulei HaMukdashin"},
 {"sefer":"Avodah","position":8,"name":"Avodat Yom HaKippurim"},
-{"sefer":"Avodah","position":9,"name":"Me'ilah"}
+{"sefer":"Avodah","position":9,"name":"Me'ilah"},
+]
+{"sefer":"Korbanot","position":1,"name":"Korban Pesach"},
+{"sefer":"Korbanot","position":2,"name":"Chagigah"},
+{"sefer":"Korbanot","position":3,"name":"Bechorot"},
+{"sefer":"Korbanot","position":4,"name":"Shegagot"},
+{"sefer":"Korbanot","position":5,"name":"Mechusrei Kapparah"},
+
+{"sefer":"Taharah","position":1,"name":"Tumat Met"},
+{"sefer":"Taharah","position":2,"name":"Parah Adumah"},
+{"sefer":"Taharah","position":3,"name":"Tumat Tzaraat"},
+{"sefer":"Taharah","position":4,"name":"Mikvaot"},
+{"sefer":"Taharah","position":5,"name":"She'ar Avot HaTumot"},
+
+{"sefer":"Nezikin","position":1,"name":"Nizkei Mamon"},
+{"sefer":"Nezikin","position":2,"name":"Geneivah"},
+{"sefer":"Nezikin","position":3,"name":"Gezeilah VaAveidah"},
+{"sefer":"Nezikin","position":4,"name":"Chovel U'Mazik"},
+{"sefer":"Nezikin","position":5,"name":"Rotzeach UShmirat Nefesh"},
+{"sefer":"Nezikin","position":6,"name":"Edut"},
+
+{"sefer":"Kinyan","position":1,"name":"Mechirah"},
+{"sefer":"Kinyan","position":2,"name":"Zechiyah UMatanah"},
+{"sefer":"Kinyan","position":3,"name":"Shechenim"},
+{"sefer":"Kinyan","position":4,"name":"Sheluchin VShutafin"},
+{"sefer":"Kinyan","position":5,"name":"Avadim"},
+
+{"sefer":"Mishpatim","position":1,"name":"Sechirut"},
+{"sefer":"Mishpatim","position":2,"name":"She'eilah UPikadon"},
+{"sefer":"Mishpatim","position":3,"name":"Malveh VLoveh"},
+{"sefer":"Mishpatim","position":4,"name":"To'en V'Nitan"},
+{"sefer":"Mishpatim","position":5,"name":"Nachalot"},
+
+{"sefer":"Shoftim","position":1,"name":"Sanhedrin VHaOnashin HaMesurin Lahem"},
+{"sefer":"Shoftim","position":2,"name":"Edim"},
+{"sefer":"Shoftim","position":3,"name":"Mamrim"},
+{"sefer":"Shoftim","position":4,"name":"Melachim UMilchamot"},
+{"sefer":"Shoftim","position":5,"name":"Aveil"}
 ]
