@@ -100,21 +100,19 @@ function nextQuestion() {
   questionDiv.innerHTML =
     `Which Sefer contains:<br><br>${currentSection.name}?`;
 
-  const allSefarim =
-    [...new Set(sections.map(x => x.sefer))];
+const allSefarim = [...new Set(sections.map(x => x.sefer))];
 
-  const wrongChoices =
-    shuffle(
-      allSefarim.filter(
-        s => s !== currentSection.sefer
-      )
-    ).slice(0,3);
+let choices = [currentSection.sefer];
 
-  const choices =
-    shuffle([
-      currentSection.sefer,
-      ...wrongChoices
-    ]);
+while (choices.length < 4) {
+  const randomSefer = allSefarim[Math.floor(Math.random() * allSefarim.length)];
+
+  if (!choices.includes(randomSefer)) {
+    choices.push(randomSefer);
+  }
+}
+
+choices = shuffle(choices);
 
   answersDiv.innerHTML = "";
 
